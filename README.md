@@ -1,7 +1,7 @@
-👋 Hi, I’m @KovaIvan
-👀 I’m interested in PHP / LARAVEL / VUE.js
-🌱 I’m currently learning Laravel
-💞️ I’m looking to collaborate on whatever is fun :)
+- 👋 Hi, I’m @KovaIvan
+- 👀 I’m interested in PHP / LARAVEL / VUE.js
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on whatever is fun :)
 
 
 <!---
